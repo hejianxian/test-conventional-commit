@@ -7,3 +7,5 @@ const c = 'breaking change';
 const d = 'feat-1';
 
 const e = 'bug-1';
+
+const aa = 'bug';
